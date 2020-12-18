@@ -1,0 +1,5 @@
+Boston_parks: parks used for the analysis, after merging the intersecting parks and removing categories with low correlation with the government
+
+Boston_parks0: original parks downloaded from OSM
+
+Boston_tracts: Boston tracts with number of timeGeo users and racial proportions (based on 2010 Census) added
